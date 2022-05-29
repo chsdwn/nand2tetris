@@ -17,7 +17,7 @@
 - (x AND (y OR z)) = (x AND y) OR (x AND z)
 - (x OR (y AND z)) = (x OR y) AND (x OR z)
 
-### De Morgan Laws
+### De Morgan Laws
 
 - NOT(x AND y) = NOT(x) OR NOT(y)
 - NOT(x OR y) = NOT(x) AND NOT(y)
