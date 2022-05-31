@@ -1,5 +1,7 @@
 # [From Nand To Tetris](https://www.nand2tetris.org/)
 
+# CAUTION: Arrays is indexed from right to left: `a=01, a[0]=1, b[1]=0`
+
 ## Boolean Identities
 
 ### Commutative Laws
